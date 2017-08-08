@@ -1,0 +1,62 @@
+pre {
+font-family: Consolas;
+width: 40%;
+padding: 5px;
+border: solid 1px #000;
+border-radius: 3px;
+background-color: rgb(89, 89, 89);
+margin: 5px;
+
+color: #fff;
+}
+
+.content-wrapper {
+width: 100%;
+}
+
+.note-block {
+font-family: Georgia;
+width: 80%;
+padding: 5px;
+border: solid 1px #000;
+border-radius: 3px;
+background-color: rgb(249, 250, 222);
+margin: 5px;
+}
+
+.note-word {
+font-weight: bold;
+color: rgb(13, 113, 28);
+}
+
+.warning-block {
+font-family: Georgia;
+width: 80%;
+padding: 5px;
+border: solid 1px #000;
+border-radius: 3px;
+background-color: rgb(255, 232, 232);
+margin: 5px;
+}
+
+.warning-word {
+font-weight: bold;
+color: rgb(179, 0, 0);
+}
+
+.info-block {
+font-family: Georgia;
+width: 80%;
+padding: 5px;
+border: solid 1px #000;
+border-radius: 3px;
+background-color: rgb(207, 248, 252);
+margin: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.info-word {
+font-weight: bold;
+color: rgb(10, 158, 175);
+}
